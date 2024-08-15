@@ -11,5 +11,5 @@ dependencyResolutionManagement {
 }
 
 
-rootProject.name = "Armeria-Spring-Templates"
+rootProject.name = "WebSocket-Server"
 
