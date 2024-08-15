@@ -1,1 +1,1 @@
-# KHC-WebSocket-Server
+# KHC-Authentication
