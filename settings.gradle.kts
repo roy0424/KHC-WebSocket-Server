@@ -10,6 +10,4 @@ dependencyResolutionManagement {
     }
 }
 
-
 rootProject.name = "WebSocket-Server"
-
